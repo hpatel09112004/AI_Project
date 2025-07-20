@@ -1,0 +1,15 @@
+# 1. Unzip
+unzip label_encoder.zip
+cd label_encoder
+
+# 2. Initialize git
+git init
+git add .
+git commit -m "Initial commit"
+
+# 3. Connect to GitHub repo
+git remote add origin https://github.com/hpatel09112004/AI_project.git
+
+# 4. Push to GitHub
+git branch -M main
+git push -u origin main

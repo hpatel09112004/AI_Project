@@ -7,3 +7,4 @@ twilio
 requests
 google-generativeai
 deep_translator
+gunicorn

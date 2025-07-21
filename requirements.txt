@@ -1,0 +1,9 @@
+Flask
+transformers
+torch
+speechrecognition
+googletrans==4.0.0rc1
+twilio
+requests
+google-generativeai
+deep_translator
